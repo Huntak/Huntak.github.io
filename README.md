@@ -1,31 +1,32 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+Initio - Free, multipurpose html5 template
+=============
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
+6 page layout templates should cover all your development needs. 
+Font Awesome 4, parallax effects and more are included (but can be turned off of course)
 
-## Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+License
+-------
+**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-The main page would look like this:
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+Bug tracker
+-----------
 
-The post page would look like this:
+Found a bug? Please create an issue here on GitHub! 
+https://github.com/pozh/Initio/issues
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
-## Features
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
+Credits
+-------
+* Design and development: **Sergey Pozhilov** - http://pozhilov.com
+* More free templates by Sergey: http://gettemplate.com
 
-## Installation:
-
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
-
-### License
-
-GNU General Public License v3.0
+Photos used in the template
+-------
+* http://www.publicdomainpictures.net/view-image.php?image=19999
+* http://www.publicdomainpictures.net/view-image.php?image=6354
+* http://imcreator.com/free/business/macbook-computer
+* http://unsplush.com
